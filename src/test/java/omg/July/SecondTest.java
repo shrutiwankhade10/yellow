@@ -44,5 +44,10 @@ public class SecondTest extends base{
 			
 		
 	}
+	
+	@Test
+	public void demo() {
+		System.out.println("hello demo");
+	}
 
 }
