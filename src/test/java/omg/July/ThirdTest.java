@@ -87,5 +87,11 @@ public class ThirdTest extends base {
 		driver.close();
 	}
 	
+	@Test
+	public void demo() {
+		System.out.println("hello demo");
+	}
+
+	
 
 }
